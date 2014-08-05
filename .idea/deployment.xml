@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/Mahlathi/Android">
+    <serverData>
+      <paths name="https://github.com/Mahlathi/Android">
+        <serverdata>
+          <mappings>
+            <mapping deploy="https://github.com/Mahlathi/Android" local="$PROJECT_DIR$" web="https://github.com/Mahlathi/Android" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+

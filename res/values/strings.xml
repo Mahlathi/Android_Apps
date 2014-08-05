@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hub_project1</string>
+    <string name="user">Username:</string>
+    <string name="pass">Password:</string>
+    <string name="but">Login</string>
+    <string name="can">Cancel</string>
+</resources>

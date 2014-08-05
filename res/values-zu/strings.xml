@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hub_project1</string>
+    <string name="user">Igama lomsebenzisi:</string>
+    <string name="pass">Iphasiwedi:</string>
+    <string name="but">Login</string>
+    <string name="can">Khansela</string>
+    <string name="message">ERROR, igama lomsebenzisi okungalungile, Iphasiwedi inhlanganisela!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hub_project1</string>
+    <string name="user">Gebruikersnaam:</string>
+    <string name="pass">Wagwoord:</string>
+    <string name="but">Teken</string>
+    <string name="can">Kanselleer</string>
+    <string name="message">Fout, verkeerde gebruikersnaam, wagwoord kombinasie!</string>
+</resources>

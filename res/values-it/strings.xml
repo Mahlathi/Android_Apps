@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hub_project1</string>
+    <string name="user">Nome utente:</string>
+    <string name="pass">Password:</string>
+    <string name="but">Entra</string>
+    <string name="can">Cancellare</string>
+    <string name="message">ERRORE, nome utente sbagliato, combinazione di password!</string>
+</resources>
